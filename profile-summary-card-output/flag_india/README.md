@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/so-dev000/so-dev000/main/profile-summary-card-output/flag_india/4-productive-time.svg)
-```
-
-    
