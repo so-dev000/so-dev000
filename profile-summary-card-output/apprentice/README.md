@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/so-dev000/so-dev000/main/profile-summary-card-output/apprentice/4-productive-time.svg)
+```
+
+    
